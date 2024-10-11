@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yuanjun.wen\\source\\repos\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC9F8D08-E939-4155-ACD2-1EDED80545A0}|ConsoleApp1Tests\\ConsoleApp1Tests.csproj|c:\\users\\yuanjun.wen\\source\\repos\\consoleapp1\\consoleapp1tests\\energyfieldsystemtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC9F8D08-E939-4155-ACD2-1EDED80545A0}|ConsoleApp1Tests\\ConsoleApp1Tests.csproj|solutionrelative:consoleapp1tests\\energyfieldsystemtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C9CFA44-48E8-42A3-B9E6-29D4226FD0A0}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\yuanjun.wen\\source\\repos\\consoleapp1\\consoleapp1\\energyfieldsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C9CFA44-48E8-42A3-B9E6-29D4226FD0A0}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\energyfieldsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C9CFA44-48E8-42A3-B9E6-29D4226FD0A0}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\yuanjun.wen\\source\\repos\\consoleapp1\\consoleapp1\\leaderboardsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C9CFA44-48E8-42A3-B9E6-29D4226FD0A0}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\leaderboardsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C9CFA44-48E8-42A3-B9E6-29D4226FD0A0}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\yuanjun.wen\\source\\repos\\consoleapp1\\consoleapp1\\talentassessmentsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C9CFA44-48E8-42A3-B9E6-29D4226FD0A0}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\talentassessmentsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C9CFA44-48E8-42A3-B9E6-29D4226FD0A0}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\yuanjun.wen\\source\\repos\\consoleapp1\\consoleapp1\\treasurehuntsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C9CFA44-48E8-42A3-B9E6-29D4226FD0A0}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\treasurehuntsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC9F8D08-E939-4155-ACD2-1EDED80545A0}|ConsoleApp1Tests\\ConsoleApp1Tests.csproj|c:\\users\\yuanjun.wen\\source\\repos\\consoleapp1\\consoleapp1tests\\leaderboardsystemtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC9F8D08-E939-4155-ACD2-1EDED80545A0}|ConsoleApp1Tests\\ConsoleApp1Tests.csproj|solutionrelative:consoleapp1tests\\leaderboardsystemtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC9F8D08-E939-4155-ACD2-1EDED80545A0}|ConsoleApp1Tests\\ConsoleApp1Tests.csproj|c:\\users\\yuanjun.wen\\source\\repos\\consoleapp1\\consoleapp1tests\\talentassessmentsystemtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC9F8D08-E939-4155-ACD2-1EDED80545A0}|ConsoleApp1Tests\\ConsoleApp1Tests.csproj|solutionrelative:consoleapp1tests\\talentassessmentsystemtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC9F8D08-E939-4155-ACD2-1EDED80545A0}|ConsoleApp1Tests\\ConsoleApp1Tests.csproj|c:\\users\\yuanjun.wen\\source\\repos\\consoleapp1\\consoleapp1tests\\treasurehuntsystemtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC9F8D08-E939-4155-ACD2-1EDED80545A0}|ConsoleApp1Tests\\ConsoleApp1Tests.csproj|solutionrelative:consoleapp1tests\\treasurehuntsystemtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C9CFA44-48E8-42A3-B9E6-29D4226FD0A0}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\yuanjun.wen\\source\\repos\\consoleapp1\\consoleapp1\\mainclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C9CFA44-48E8-42A3-B9E6-29D4226FD0A0}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\mainclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EnergyFieldSystemTests.cs",
+              "DocumentMoniker": "C:\\Users\\yuanjun.wen\\source\\repos\\ConsoleApp1\\ConsoleApp1Tests\\EnergyFieldSystemTests.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1Tests\\EnergyFieldSystemTests.cs",
+              "ToolTip": "C:\\Users\\yuanjun.wen\\source\\repos\\ConsoleApp1\\ConsoleApp1Tests\\EnergyFieldSystemTests.cs",
+              "RelativeToolTip": "ConsoleApp1Tests\\EnergyFieldSystemTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T09:22:27.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EnergyFieldSystem.cs",
+              "DocumentMoniker": "C:\\Users\\yuanjun.wen\\source\\repos\\ConsoleApp1\\ConsoleApp1\\EnergyFieldSystem.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\EnergyFieldSystem.cs",
+              "ToolTip": "C:\\Users\\yuanjun.wen\\source\\repos\\ConsoleApp1\\ConsoleApp1\\EnergyFieldSystem.cs",
+              "RelativeToolTip": "ConsoleApp1\\EnergyFieldSystem.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABkAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T09:21:39.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TalentAssessmentSystemTests.cs",
+              "DocumentMoniker": "C:\\Users\\yuanjun.wen\\source\\repos\\ConsoleApp1\\ConsoleApp1Tests\\TalentAssessmentSystemTests.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1Tests\\TalentAssessmentSystemTests.cs",
+              "ToolTip": "C:\\Users\\yuanjun.wen\\source\\repos\\ConsoleApp1\\ConsoleApp1Tests\\TalentAssessmentSystemTests.cs",
+              "RelativeToolTip": "ConsoleApp1Tests\\TalentAssessmentSystemTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T09:11:45.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TalentAssessmentSystem.cs",
+              "DocumentMoniker": "C:\\Users\\yuanjun.wen\\source\\repos\\ConsoleApp1\\ConsoleApp1\\TalentAssessmentSystem.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\TalentAssessmentSystem.cs",
+              "ToolTip": "C:\\Users\\yuanjun.wen\\source\\repos\\ConsoleApp1\\ConsoleApp1\\TalentAssessmentSystem.cs",
+              "RelativeToolTip": "ConsoleApp1\\TalentAssessmentSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T09:00:47.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TreasureHuntSystemTests.cs",
+              "DocumentMoniker": "C:\\Users\\yuanjun.wen\\source\\repos\\ConsoleApp1\\ConsoleApp1Tests\\TreasureHuntSystemTests.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1Tests\\TreasureHuntSystemTests.cs",
+              "ToolTip": "C:\\Users\\yuanjun.wen\\source\\repos\\ConsoleApp1\\ConsoleApp1Tests\\TreasureHuntSystemTests.cs",
+              "RelativeToolTip": "ConsoleApp1Tests\\TreasureHuntSystemTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T08:13:16.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TreasureHuntSystem.cs",
+              "DocumentMoniker": "C:\\Users\\yuanjun.wen\\source\\repos\\ConsoleApp1\\ConsoleApp1\\TreasureHuntSystem.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\TreasureHuntSystem.cs",
+              "ToolTip": "C:\\Users\\yuanjun.wen\\source\\repos\\ConsoleApp1\\ConsoleApp1\\TreasureHuntSystem.cs",
+              "RelativeToolTip": "ConsoleApp1\\TreasureHuntSystem.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T08:09:22.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LeaderboardSystemTests.cs",
+              "DocumentMoniker": "C:\\Users\\yuanjun.wen\\source\\repos\\ConsoleApp1\\ConsoleApp1Tests\\LeaderboardSystemTests.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1Tests\\LeaderboardSystemTests.cs",
+              "ToolTip": "C:\\Users\\yuanjun.wen\\source\\repos\\ConsoleApp1\\ConsoleApp1Tests\\LeaderboardSystemTests.cs",
+              "RelativeToolTip": "ConsoleApp1Tests\\LeaderboardSystemTests.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T07:31:07.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LeaderboardSystem.cs",
+              "DocumentMoniker": "C:\\Users\\yuanjun.wen\\source\\repos\\ConsoleApp1\\ConsoleApp1\\LeaderboardSystem.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\LeaderboardSystem.cs",
+              "ToolTip": "C:\\Users\\yuanjun.wen\\source\\repos\\ConsoleApp1\\ConsoleApp1\\LeaderboardSystem.cs",
+              "RelativeToolTip": "ConsoleApp1\\LeaderboardSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T07:23:12.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainClass.cs",
+              "DocumentMoniker": "C:\\Users\\yuanjun.wen\\source\\repos\\ConsoleApp1\\ConsoleApp1\\MainClass.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\MainClass.cs",
+              "ToolTip": "C:\\Users\\yuanjun.wen\\source\\repos\\ConsoleApp1\\ConsoleApp1\\MainClass.cs",
+              "RelativeToolTip": "ConsoleApp1\\MainClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T07:40:51.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
